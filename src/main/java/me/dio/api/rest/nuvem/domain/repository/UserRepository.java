@@ -7,6 +7,6 @@ import me.dio.api.rest.nuvem.domain.model.User;
 
 @Repository
 public interface UserRepository extends JpaRepository<User, Long> {
-    boolean existsByAccontNumber(String accountNumber);
+    boolean existsByAccountNumber(String accountNumber);
     
 }
