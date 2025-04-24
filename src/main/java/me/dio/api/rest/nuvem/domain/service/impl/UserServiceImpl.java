@@ -1,4 +1,4 @@
-package me.dio.api.rest.nuvem.domain.impl;
+package me.dio.api.rest.nuvem.domain.service.impl;
 
 import java.util.NoSuchElementException;
 
